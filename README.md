@@ -1,3 +1,3 @@
 # TheMksiDev.github.io
 
-Repo for Apple servicesID
+Repo app-ads.txt for banners
